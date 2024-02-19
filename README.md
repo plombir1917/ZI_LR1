@@ -1,4 +1,4 @@
-# encryptyon and decryptyon
+# encryption and decryption
 
 ## Build Setup
 
